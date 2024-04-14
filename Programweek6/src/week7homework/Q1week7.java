@@ -11,9 +11,9 @@ public class Q1week7 {
         System.out.println("Enter Number:");
         int number1 = scan.nextInt();
         if (number1 %  2 == 0)
-            System.out.println("number is even" + number1);
+            System.out.println("number is Even" + number1);
         else
-            System.out.println("Number is odd" + number1);
+            System.out.println("Number is Odd" + number1);
     }
 
 }
