@@ -32,11 +32,7 @@ public class Q13week7 {
             if (num2 != 0) {
                 result = num1 / num2;
                 System.out.println("Result: " + result);
-            } else {
-                System.out.println("Cannot divide by zero.");
             }
-        } else {
-            System.out.println("Invalid operation symbol.");
         }
     }
 
